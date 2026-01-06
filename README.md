@@ -1,4 +1,4 @@
-# Sales_Analysis_SQL
+
 # Sales Analysis SQL Project
 
 ## Overview
